@@ -1,5 +1,9 @@
 
-### Hi there 👋
+### Hey there 👋
+
+I'm a Data Science and Applied Statistics dual major at Purdue. I'm highly interested in the use of ML to solve real world problems (business or otherwise).
+
+You'll find my most recent updates on [Linkedin](https://www.linkedin.com/in/harishasan001/). Reach out to harishasan001@gmail.com for conversation!
 
 <!--
 **harishasan001/harishasan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
