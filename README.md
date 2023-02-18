@@ -1,7 +1,7 @@
 
-### Hey there 👋
+### 👋
 
-I'm a Data Science and Applied Statistics dual major at Purdue. I'm highly interested in the use of ML to solve real world problems (business or otherwise).
+I'm Haris Hasan, a Data Science and Applied Statistics dual major at Purdue, and am highly interested in the use of ML to solve real world problems (business or otherwise).
 
 You'll find my most recent updates on [Linkedin](https://www.linkedin.com/in/harishasan001/). Reach out to harishasan001@gmail.com for conversation!
 
