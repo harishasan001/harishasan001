@@ -2,7 +2,7 @@
 
 I'm Haris Hasan, a Data Science and Applied Statistics dual major at Purdue, and am highly interested in the use of data + ML to solve real world problems (business or otherwise).
 
-I've put some of my more interesting (and clean) work up here. You'll always find my most recent updates on [Linkedin](https://www.linkedin.com/in/harishasan001/). Reach out to harishasan001@gmail.com for conversation about what I'm working on behind the scenes!
+I've put some of my more interesting (and clean) work up here. You'll always find my most recent updates on [Linkedin](https://www.linkedin.com/in/harishasan001/). Reach out to harishasan001@gmail.com for conversation about what I'm working on behind the scenes in private repositories!
 
 <!--
 **harishasan001/harishasan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
